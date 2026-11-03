@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+.venv/
+
+# Generated figures, animations and exports (figures.save writes fig_*.png)
+figures/
+*.png
+*.pdf
+*.svg
+*.gif
+*.mp4
+*.html

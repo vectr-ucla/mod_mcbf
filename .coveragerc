@@ -1,0 +1,8 @@
+# Coverage of the package by its unit tests: `pytest --cov` (needs pytest-cov).
+[run]
+source = odmcbf
+omit = odmcbf/tests/*
+branch = True
+
+[report]
+show_missing = True
